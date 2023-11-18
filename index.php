@@ -25,6 +25,7 @@ if(mysqli_num_rows($result) > 0){
       <a href='details.php?prodID=$row[id]'class='btn btn-outline-primary'>Details</a>
       <a href='update.php?prodID=$row[id]' class='btn btn-outline-warning'>Update</a>
       <a href='delete.php?prodID=$row[id]' class='btn btn-outline-dark'>Delete</a>
+      <a href='publisher.php?publisher_address=$row[publisher_address]' class='btn btn-outline-secondary'>Publisher</a>
 
     </div>
     </div>

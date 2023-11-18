@@ -25,6 +25,7 @@ $card = "";
                   <hr>
                   <a href='update.php?prodID=$row[id]' class='btn btn-warning'>Update</a>
                   <a href='delete.php?prodID=$row[id]' class='btn btn-danger'>Delete</a>
+                  <a href='publisher.php?publisher_address=$row[publisher_address]' class='btn btn-outline-secondary'>Publisher</a>
               </div>
     
         ";

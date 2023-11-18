@@ -14,9 +14,6 @@ echo"
         <li class='nav-item'>
           <a class='nav-link' href='create.php'>Create</a>
         </li>
-        <li class='nav-item'>
-          <a class='nav-link' href='publisher.php'>Publisher from the US</a>
-        </li>
       </ul>
     </div>
   </div>
