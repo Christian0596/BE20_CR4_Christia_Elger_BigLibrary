@@ -66,7 +66,7 @@ mysqli_close($conn);
         <div class="container p-4">
             <form action="" method="post">
                 <div class="row">
-                    <h1 class="center-text">Add your own file</h1> <!-- Apply centering and bold styles -->
+                    <h1 class="center-text">Add your own file</h1>
                     <div class="col-md-6 offset-md-3 text-center">
                         <input type="text" name="author_first_name" placeholder="Write Author's first name" class="form-control mb-3">
                         <input type="text" name="author_last_name" placeholder="Write Author's last name" class="form-control mb-3">
